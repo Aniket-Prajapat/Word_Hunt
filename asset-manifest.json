@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Aniket-Prajapat/Word_Hunt.git/static/css/main.4c8d6eec.chunk.css",
+    "main.js": "/Aniket-Prajapat/Word_Hunt.git/static/js/main.1423a44b.chunk.js",
+    "main.js.map": "/Aniket-Prajapat/Word_Hunt.git/static/js/main.1423a44b.chunk.js.map",
+    "runtime-main.js": "/Aniket-Prajapat/Word_Hunt.git/static/js/runtime-main.824ecca5.js",
+    "runtime-main.js.map": "/Aniket-Prajapat/Word_Hunt.git/static/js/runtime-main.824ecca5.js.map",
+    "static/js/2.ec1787f1.chunk.js": "/Aniket-Prajapat/Word_Hunt.git/static/js/2.ec1787f1.chunk.js",
+    "static/js/2.ec1787f1.chunk.js.map": "/Aniket-Prajapat/Word_Hunt.git/static/js/2.ec1787f1.chunk.js.map",
+    "index.html": "/Aniket-Prajapat/Word_Hunt.git/index.html",
+    "static/css/main.4c8d6eec.chunk.css.map": "/Aniket-Prajapat/Word_Hunt.git/static/css/main.4c8d6eec.chunk.css.map",
+    "static/js/2.ec1787f1.chunk.js.LICENSE.txt": "/Aniket-Prajapat/Word_Hunt.git/static/js/2.ec1787f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.824ecca5.js",
+    "static/js/2.ec1787f1.chunk.js",
+    "static/css/main.4c8d6eec.chunk.css",
+    "static/js/main.1423a44b.chunk.js"
+  ]
+}
